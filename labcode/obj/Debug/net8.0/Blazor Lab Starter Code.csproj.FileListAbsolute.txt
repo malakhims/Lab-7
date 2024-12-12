@@ -1,0 +1,27 @@
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Blazor Lab Starter Code.exe
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Data\Books.csv
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Data\Users.csv
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Blazor Lab Starter Code.deps.json
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Blazor Lab Starter Code.runtimeconfig.json
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Blazor Lab Starter Code.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Blazor Lab Starter Code.pdb
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.csproj.AssemblyReference.cache
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.AssemblyInfoInputs.cache
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.AssemblyInfo.cs
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor L.97CF0B91.Up2Date
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\refint\Blazor Lab Starter Code.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.pdb
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\Blazor Lab Starter Code.genruntimeconfig.cache
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\obj\Debug\net8.0\ref\Blazor Lab Starter Code.dll
+C:\Users\TJ\Desktop\CODE\server-side\lab6\labcode\bin\Debug\net8.0\Newtonsoft.Json.dll
